@@ -7,7 +7,7 @@
     <title>Dashboard</title>
 </head>
 <body>
-    <h1>Tangina mo Tokwa</h1>
+    <h1>HELLO WORLDDD</h1>
 </body>
 </html>
 
