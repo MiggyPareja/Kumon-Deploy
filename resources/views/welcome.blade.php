@@ -7,7 +7,7 @@
     <title>Dashboard</title>
 </head>
 <body>
-    <h1>HELLO WORLDDD</h1>
+    <h1>BOBO mo TOKWA</h1>
 </body>
 </html>
 
